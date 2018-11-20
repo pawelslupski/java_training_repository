@@ -1,4 +1,4 @@
-package variables;
+package exercises.variables;
 
 public class DataTypes {
     public static void main(String[] args) {
